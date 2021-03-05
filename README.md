@@ -1,2 +1,2 @@
 # racoon
-A deep learning framework, just start. No current version.
+A deep learning framework. Just start, No current version.
